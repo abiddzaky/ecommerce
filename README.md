@@ -1,2 +1,2 @@
 # ecommerce
-TEC
+Tugas E-commerce
